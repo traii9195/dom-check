@@ -84,7 +84,7 @@ body {
     width: 150px;
     opacity: 0;
     transition: .5s ease;
-    background-color: #2CB1BC;
+     background: #2CB1BC;
   }
   .img-container:hover .overlay {
     opacity: 1;
